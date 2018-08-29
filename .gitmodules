@@ -1,0 +1,6 @@
+[submodule "contract.ont.dungeon"]
+	path = contract.ont.dungeon
+	url = git@github.com:general7games/contract.ont.dungeon.git
+[submodule "ns.ont.dungeon"]
+	path = ns.ont.dungeon
+	url = git@github.com:general7games/ns.ont.dungeon.git
