@@ -7,3 +7,6 @@
 [submodule "admin.ont.dungeon"]
 	path = admin.ont.dungeon
 	url = git@github.com:general7games/admin.ont.dungeon.git
+[submodule "game.ont.dungeon"]
+	path = game.ont.dungeon
+	url = git@github.com:general7games/game.ont.dungeon.git
